@@ -4,13 +4,8 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\sound0</sound>
-  </sounds>
-  <sprites name="sprites">
-    <sprite>sprites\spr_prueba1</sprite>
-    <sprite>sprites\sprite1</sprite>
-  </sprites>
+  <sounds name="sound"/>
+  <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <help>
