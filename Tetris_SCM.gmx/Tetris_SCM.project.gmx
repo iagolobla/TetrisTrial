@@ -18,7 +18,13 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\object0</object>
+    <object>objects\obj_cuadrado</object>
+    <object>objects\obj_LBlue</object>
+    <object>objects\obj_T</object>
+    <object>objects\obj_LOrange</object>
+    <object>objects\obj_barra</object>
+    <object>objects\obj_ZRed</object>
+    <object>objects\obj_ZGreen</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_playground</room>
