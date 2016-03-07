@@ -8,7 +8,12 @@
   <sprites name="sprites">
     <sprite>sprites\spr_cuadrado</sprite>
     <sprite>sprites\spr_LBlue</sprite>
+    <sprite>sprites\spr_T</sprite>
+    <sprite>sprites\spr_LOrange</sprite>
     <sprite>sprites\spr_barra</sprite>
+    <sprite>sprites\spr_ZRed</sprite>
+    <sprite>sprites\spr_ZGreen</sprite>
+    <sprite>sprites\spr_celda</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
