@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\spr_cuadrado</sprite>
     <sprite>sprites\spr_LBlue</sprite>
+    <sprite>sprites\spr_barra</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
