@@ -12,6 +12,9 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <rooms name="rooms">
+    <room>rooms\rm_playground</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
