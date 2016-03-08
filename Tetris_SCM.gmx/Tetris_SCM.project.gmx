@@ -27,6 +27,7 @@
     <object>objects\obj_barra</object>
     <object>objects\obj_ZRed</object>
     <object>objects\obj_ZGreen</object>
+    <object>objects\obj_main_controller</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_playground</room>
