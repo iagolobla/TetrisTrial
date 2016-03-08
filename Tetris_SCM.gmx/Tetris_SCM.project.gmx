@@ -14,6 +14,7 @@
     <sprite>sprites\spr_ZRed</sprite>
     <sprite>sprites\spr_ZGreen</sprite>
     <sprite>sprites\spr_celda</sprite>
+    <sprite>sprites\spr_muro</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_playground01</background>
@@ -30,8 +31,13 @@
     <objects name="controladores">
       <object>objects\obj_main_controller</object>
     </objects>
+    <object>objects\obj_muro</object>
   </objects>
+  <timelines name="timelines">
+    <timeline>timelines\tl_fichas</timeline>
+  </timelines>
   <rooms name="rooms">
+    <room>rooms\rm_testeo</room>
     <room>rooms\rm_playground</room>
   </rooms>
   <help>
