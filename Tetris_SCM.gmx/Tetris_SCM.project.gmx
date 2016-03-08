@@ -15,11 +15,15 @@
     <sprite>sprites\spr_ZGreen</sprite>
     <sprite>sprites\spr_celda</sprite>
     <sprite>sprites\spr_muro</sprite>
+    <sprite>sprites\spr_wall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_playground01</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_movement.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_cuadrado</object>
     <object>objects\obj_LBlue</object>
@@ -32,13 +36,15 @@
       <object>objects\obj_main_controller</object>
     </objects>
     <object>objects\obj_muro</object>
+    <object>objects\obj_pared</object>
+    <object>objects\object11</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\tl_fichas</timeline>
   </timelines>
   <rooms name="rooms">
-    <room>rooms\rm_testeo</room>
     <room>rooms\rm_playground</room>
+    <room>rooms\rm_testeo</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
