@@ -37,10 +37,10 @@
     </objects>
     <object>objects\obj_muro</object>
     <object>objects\obj_pared</object>
-    <object>objects\object11</object>
   </objects>
   <timelines name="timelines">
-    <timeline>timelines\tl_fichas</timeline>
+    <timeline>timelines\tl_mainCLK</timeline>
+    <timeline>timelines\tl_fichasCLK</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\rm_playground</room>

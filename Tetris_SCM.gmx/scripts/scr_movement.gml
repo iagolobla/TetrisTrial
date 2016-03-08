@@ -4,4 +4,7 @@ if (argument0 == 'l'){
 else if (argument0 == 'r'){
     self.x += 32
 }
-    
+else if(argument0 == 'd'){
+    self.y +=32
+}
+
